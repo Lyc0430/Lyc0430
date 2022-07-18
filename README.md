@@ -1,6 +1,6 @@
 <h2> 嘿,欢迎光临咸鱼的小窝<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://avatars.githubusercontent.com/u/75026738?v=4' width='200"'>
 
 我是云岚 😃. 来自中国, 目前在浙江温州上大学 🏫. 我喜欢探索未知的事物,并用flag来激励自己学习!!!
 
