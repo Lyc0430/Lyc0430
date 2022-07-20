@@ -2,7 +2,7 @@
 
 <img align='right' src='https://avatars.githubusercontent.com/u/75026738?v=4' width='200"'>
 
-我是云岚 😃. 来自中国, 目前在浙江温州上大学 🏫. 我喜欢探索未知的事物,并用flag来激励自己学习!!!
+我是云岚 😃. 来自中国, 目前在浙江温州上大学 🏫. 
 
 ## ⚡ 技术
 可以和我聊聊以下内容:
