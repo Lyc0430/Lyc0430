@@ -2,7 +2,7 @@
 
 <img align='right' src='https://avatars.githubusercontent.com/u/75026738?v=4' width='200"'>
 
-我是云岚 😃. 来自中国, 目前在浙江温州上大学 🏫. 
+我是云岚 😃. 来自中国, 目前即将前往英国读硕士 🏫. 
 
 ## ⚡ 技术
 可以和我聊聊以下内容:
@@ -15,8 +15,8 @@
 - 使用服务器部署页面.
 ## 你好,世界!! 🤔
 - 💬 可以和我聊聊你想聊的任何内容.
-- 📫 阅读我的博客: [写完了,晚点补](/).
-- 🎯 查看我最近的作品: [太烂了,拖去重做了,做完再塞回来](/).
+- 📫 阅读我的博客: [咸鱼的小窝](www.cloudlan.space).
+- 🎯 查看我最近的作品: [barcitizen中国上海2023(虽然写的很烂而且没写完)](https://sh.barcitizen.cn/).
 - ⚡ 毕生追求: 代码和人有一个能跑就行.
 
 ![我的github评分](https://github-readme-stats.vercel.app/api?username=Lyc0430&hide=["issues"]&show_icons=true)
