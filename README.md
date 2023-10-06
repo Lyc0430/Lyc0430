@@ -2,7 +2,7 @@
 
 <img align='right' src='https://avatars.githubusercontent.com/u/75026738?v=4' width='200"'>
 
-我是云岚 😃. 来自中国, 目前即将前往英国读硕士 🏫. 
+我是云岚 😃. 来自中国. 
 
 ## ⚡ 技术
 可以和我聊聊以下内容:
@@ -13,6 +13,7 @@
 - 使用 **Electron**进行桌面客户端开发.
 - 使用 **React Native**进行手机app开发.
 - 使用 **Uni APP**进行手机app开发.
+- 使用 **Pytorch** (正在学习)
 - 使用服务器部署页面.
 ## 你好,世界!! 🤔
 - 💬 可以和我聊聊你想聊的任何内容.
