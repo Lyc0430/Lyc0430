@@ -1,3 +1,7 @@
+<div>
+  <a href="https://github.com/Lyc0430/Lyc0430#readme" id="switchToEnglish">English</a> |
+  <a href="https://github.com/Lyc0430/Lyc0430#readme_cn" id="switchToChinese">中文</a>
+</div>
 <h2> 嘿,欢迎光临咸鱼的小窝<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://avatars.githubusercontent.com/u/75026738?v=4' width='200"'>
