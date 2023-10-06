@@ -13,7 +13,6 @@ Feel free to chat with me about the following:
 - Desktop client development with **Electron**.
 - Mobile app development with **React Native**.
 - Mobile app development with **Uni APP**.
-- Learning **PyTorch**.
 - Deploying websites on servers.
 
 ## Hello, World!! 🤔
