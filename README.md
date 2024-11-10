@@ -18,8 +18,7 @@ Feel free to chat with me about the following:
 
 ## Hello, World!! 🤔
 - 💬 You can talk to me about anything you'd like.
-- 📫 Read my blog: [Cloudlan Space (under reconstruction)]().
-- 🎯 Check out my latest project: [None]().
+- 📫 Read my blog: [Linovate](https://blog.cloudlan.space).
 - ⚡ Life's pursuit: Code and people running smoothly together.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyc0430&hide=["issues"]&show_icons=true)
